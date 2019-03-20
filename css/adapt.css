@@ -1,0 +1,474 @@
+@media (min-width: 1024px) and (max-width: 1199px) { 
+	.navbar-nav{
+		margin-left: 0px;
+	}
+	.butt-new-collection{
+		margin-top: 50px;
+	}
+
+	.col-md-offset-3{
+		margin-left: 0px;
+	}
+
+	.infoDiana-block{
+		margin-left: 25%;
+	}
+
+	.black-part{
+		top: -665px;
+	}
+}
+
+@media (min-width: 768px) and (max-width: 1023px) { 
+	header{
+		height: 60px;
+	}
+	.navbar-default{
+		height: 60px;
+	}
+	.navbar-brand img{
+		width: 60%;
+		height: auto;
+	}
+	.navbar-nav{
+		margin-left: -80px;
+		margin-top: 10px;
+		text-transform: none;
+	}
+
+	.menu-events{
+		width: 103px;
+	}
+
+	.drop-main-menu-events{
+		width: 103px;
+	}
+
+	.menu-collections{
+		width: 118px;
+	}
+
+	.drop-main-menu-collections{
+		width: 118px;
+	}
+
+	.social{
+		font-size: 20px;
+		margin-top: 0px;
+		margin-right: 0px;
+	}
+
+	.social>a{
+		padding-left: 0px;
+		padding-right: 0px;
+	}
+
+	.fbheader{
+		padding: 0px;
+		position: relative;
+		left: 10px;
+	}
+
+	.langmenu{
+		margin-top: 10px;
+	}
+
+	.banner{
+		background-size: 100% auto;
+		height: 420px;
+	}
+
+	.black-part{
+		top: -260px;
+	}
+
+	.text-collections{
+		margin-top: 60px;
+	}
+
+	.text-name{
+		font-size: 50px;
+	}
+
+	.text-about{
+		font-size: 30px;
+	}
+
+	.butt-all-collection{
+		width: 255px;
+		position: absolute;
+		right: 0;
+	}
+
+	.events{
+		height: 1200px;
+	}
+
+	.col-md-4{
+		width: 360px;
+		float: left;
+	}
+
+	.news{
+		height: 1150px;
+	}
+
+	.location{
+		height: 680px;
+	}
+
+	.map{
+		margin-top: 30px;
+	}
+
+	footer{
+		height: 987px;
+	}
+
+	.collection-season:after{
+		display: none;
+	}
+}
+
+@media (min-width: 992px) and (max-width: 1023px) {
+	.col-md-4{
+		width: 340px;
+	}
+
+	.col-md-offset-3{
+		margin-left: 0px;
+	}
+
+
+	.infoDiana-block{
+		margin-left: 25%;
+	}
+
+	.events{
+		height: 900px;
+	}
+
+	.news-block{
+		width: 300px;
+	}
+
+	.news{
+		height: 500px;
+	}
+
+	.location{
+		height: 500px;
+	}
+
+	.col-md-offset-1{
+		margin-left: 0px;
+	}
+
+	footer{
+		height: 450px;
+	}
+
+
+	.butt-new-collection{
+		margin-top: 50px;
+	}
+} 
+
+@media (min-width: 425px) and (max-width: 767px){
+	.navbar-toggle{
+		margin-top: 30px;
+	}
+
+	.navbar-collapse{
+		background: #fff;
+	}
+
+	.navbar-nav .open .dropdown-menu{
+		float: left;
+	}
+
+	.nav>li:last-child{
+		clear: both;
+	}
+
+	.navbar-default .navbar-nav>.open>a:hover{
+		border: 0;
+	}
+	.langs{
+		float: none;
+	}
+	.langmenu{
+		margin-top: 10px;
+	}
+
+	.open>.dropdown-toggle.btn-default:hover{
+		border: 0;
+	}
+
+	.banner{
+		background-size: 100% auto;
+		height: 220px;
+	}
+
+	.black-part{
+		top: -150px;
+	}
+
+	.text-collections{
+		margin-top: 20px;
+		margin-bottom: 20px;
+	}
+
+	.text-name{
+		font-size: 30px;
+	}
+
+	.text-about{
+		font-size: 20px;
+	}
+
+	.butt-all-collection{
+		width: 200px;
+		position: absolute;
+		right: 0;
+		font-size: 12px;
+		z-index: 1000;
+	}
+
+	.infoDiana{
+		height: 700px;
+	}
+	.coolections{
+		display: none;
+	}
+	.events{
+		height: 2050px;
+	}
+
+	.col-md-4{
+		width: 390px;
+		float: left;
+	}
+
+	.news{
+		height: 1150px;
+	}
+
+	.location{
+		height: 1200px;
+	}
+
+	.map{
+		margin-top: 30px;
+	}
+
+	footer{
+		height: 987px;
+	}
+
+	.collection-season:after{
+		display: none;
+	}
+}
+
+@media (min-width: 321px) and (max-width: 375px){
+	.navbar-toggle{
+		margin-top: 30px;
+	}
+
+	.navbar-collapse{
+		background: #fff;
+	}
+
+	.navbar-nav .open .dropdown-menu{
+		float: left;
+	}
+
+	.nav>li:last-child{
+		clear: both;
+	}
+
+	.navbar-default .navbar-nav>.open>a:hover{
+		border: 0;
+	}
+	.langs{
+		float: none;
+	}
+	.langmenu{
+		margin-top: 10px;
+	}
+
+	.open>.dropdown-toggle.btn-default:hover{
+		border: 0;
+	}
+
+	.banner{
+		background-size: 100% auto;
+		height: 220px;
+	}
+
+	.black-part{
+		top: -115px;
+	}
+
+	.text-collections{
+		margin-top: 20px;
+		margin-bottom: 20px;
+	}
+
+	.text-name{
+		font-size: 24px;
+	}
+
+	.text-about{
+		display: none;
+	}
+
+	.butt-all-collection{
+		width: 200px;
+		position: absolute;
+		right: 0;
+		font-size: 12px;
+		z-index: 1000;
+	}
+
+	.infoDiana{
+		height: 790px;
+	}
+
+	.info-ttl{
+		margin-top: 30px;
+	}
+
+	.coolections{
+		display: none;
+	}
+	.events{
+		height: 1800px;
+	}
+
+	.news{
+		height: 1600px;
+	}
+
+	.location{
+		height: 700px;
+	}
+
+	.map{
+		margin-top: 30px;
+	}
+
+	footer{
+		height: 987px;
+	}
+
+	.collection-season:after{
+		display: none;
+	}
+
+	.form-control{
+		width: 260px;
+	}
+}
+
+@media (min-width: 0px) and (max-width: 320px){
+	.navbar-toggle{
+		margin-top: 30px;
+	}
+
+	.navbar-collapse{
+		background: #fff;
+	}
+
+	.navbar-nav .open .dropdown-menu{
+		float: left;
+	}
+
+	.nav>li:last-child{
+		clear: both;
+	}
+
+	.navbar-default .navbar-nav>.open>a:hover{
+		border: 0;
+	}
+	.langs{
+		float: none;
+	}
+	.langmenu{
+		margin-top: 10px;
+	}
+
+	.open>.dropdown-toggle.btn-default:hover{
+		border: 0;
+	}
+
+	.banner{
+		background-size: 100% auto;
+		height: 220px;
+	}
+
+	.black-part{
+		top: -145px;
+	}
+
+	.text-collections{
+		margin-top: 20px;
+		margin-bottom: 20px;
+	}
+
+	.text-name{
+		font-size: 24px;
+	}
+
+	.text-about{
+		display: none;
+	}
+
+	.butt-all-collection{
+		width: 200px;
+		position: absolute;
+		right: 0;
+		font-size: 12px;
+		z-index: 1000;
+	}
+
+	.infoDiana{
+		height: 790px;
+	}
+
+	.info-ttl{
+		margin-top: 30px;
+	}
+
+	.coolections{
+		display: none;
+	}
+	.events{
+		height: 1600px;
+	}
+
+	.news{
+		height: 1450px;
+	}
+
+	.location{
+		height: 700px;
+	}
+
+	.map{
+		margin-top: 30px;
+	}
+
+	footer{
+		height: 987px;
+	}
+
+	.collection-season:after{
+		display: none;
+	}
+
+	.form-control{
+		width: 260px;
+	}
+}
